@@ -2,4 +2,4 @@ pipeline:
   build:
     image: alpine
     commands:
-      - echo "hello world!"
+      - echo "hello world 1!"
